@@ -16,3 +16,7 @@ $ chrome-c --headless --remote-debugging-port=9222 https://chromium.org
 ```
 $ node script.js
 ```
+
+https://developers.google.com/web/updates/2017/04/headless-chrome?hl=ja
+
+に他の機能もあるよ！
